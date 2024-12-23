@@ -32,6 +32,8 @@ dependencies:
   device_info_plus:
   android_intent_plus:
   change_app_package_name:
+  background_fetch:
+  flutter_local_notifications:
 #  permission_handler:
   url_launcher:
 #  flutter_telephony_info:
